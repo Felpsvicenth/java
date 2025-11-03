@@ -9,6 +9,8 @@ public class EmailMain {
 		sistema.adicionarEmail("filipe@hotmail.com");
 		
 		sistema.verificarEmail("filipee@hotmail.com");
+		
+		//qulquer cois
 
 	}
 
